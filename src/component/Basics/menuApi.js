@@ -17,6 +17,7 @@ const Menu = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
+
     {
       id: 3,
       image: "images/corn.jpg",
