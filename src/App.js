@@ -10,10 +10,10 @@ import UseReducer from "./component/Hooks/UseReducer";
 const App = ()=>{
   return (
     <>
-      <UseReducer/>
+      {/* <UseReducer/> */}
       {/* <UseEffect/> */}
       {/* <UseState/> */}
-      {/* <Restaurant/> */}
+      <Restaurant/>
       {/* <MyName/>
       <MyName/>
       <h1 className="myclassname">Hello world!!{3+3}</h1>
