@@ -36,7 +36,7 @@ const Restaurant = () => {
 
   return (
     <>
-      <Navbar filterItem={filterItem} menuList={menuList}></Navbar>
+      <Navbar filterItem={filterItem} menuList={menuList}/>
       {/* <nav className='navbar'>
         <div className='btn-group'>
           <button className='btn-group__item' onClick={() => filterItem("breakfast")}>Breakfast</button>
@@ -52,4 +52,3 @@ const Restaurant = () => {
 }
 
 export default Restaurant;
-

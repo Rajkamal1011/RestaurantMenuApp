@@ -1,10 +1,12 @@
 import React from 'react'
 
+// const Navbar = () => {
 const Navbar = ({filterItem,menuList}) => {
+
   return (
     <>
       <nav className='navbar'>
-        <div className='btn-group'>
+        <div className='btn-group' style={{color:"white"}}>
           {
             menuList.map((curElem)=>{
               return (
